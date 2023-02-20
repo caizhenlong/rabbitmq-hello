@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú‡ºˆøÿÿÿÿ
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ú‡ºˆøÿÿÿÿ
+K
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+X
+java:S1128
+"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì
+c
+java:S1192"HDefine a constant instead of duplicating this literal "console" 4 times.(íæ¦¥ûÿÿÿÿ

@@ -1,0 +1,6 @@
+
+O
+java:S4719!"9Replace charset name argument with StandardCharsets.UTF_8(èÜË
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÿÚé
+H
+java:S1128"3Remove this unused import 'javafx.concurrent.Task'.(Úåôg

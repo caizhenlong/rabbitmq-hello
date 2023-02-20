@@ -1,0 +1,14 @@
+
+`	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(ò…·ºøÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(ªøÿùÿÿÿÿ
+[	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ˆãóÃ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(‹šÏ£ıÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(™Ëñˆüÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ŠòúÖùÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(µÜÎ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(õ™Ù¥ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ë£Îìÿÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+X
+java:S1128"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì

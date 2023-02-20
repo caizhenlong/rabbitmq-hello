@@ -1,0 +1,13 @@
+
+V	java:S125*"<This block of commented-out lines of code should be removed.(ª¯İ†ıÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(Î·¢Ï
+O
+java:S4719>"9Replace charset name argument with StandardCharsets.UTF_8(ûÍ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ó˜‡µ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(°®‰‹
+O
+java:S1611I"9Remove the parentheses around the "consumerTag" parameter(Í˜Óº
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+X
+java:S1128	"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì

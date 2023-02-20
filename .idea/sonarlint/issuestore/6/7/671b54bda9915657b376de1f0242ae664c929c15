@@ -1,0 +1,15 @@
+
+_
+java:S21470"DCombine this catch with the one at line 46, which has the same body.(†ëˆçùÿÿÿÿ
+A
+java:S1602",Remove useless curly braces around statement(ÔÞÈ9
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ýâó¦
+O
+java:S1611#"9Remove the parentheses around the "consumerTag" parameter(Í˜Óº
+B
+java:S1602#",Remove useless curly braces around statement(Í˜Óº
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(òµÄò
+`
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú

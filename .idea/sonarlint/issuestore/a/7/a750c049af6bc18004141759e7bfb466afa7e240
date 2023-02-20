@@ -1,0 +1,9 @@
+
+J
+java:S1481"4Remove this unused "receivedMessage" local variable.(Ú¬Ê
+O
+java:S1611"9Remove the parentheses around the "consumerTag" parameter(Í˜Óº
+B
+java:S1602",Remove useless curly braces around statement(Í˜Óº
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åÑ˜¼
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿ¯å
